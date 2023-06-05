@@ -1,7 +1,6 @@
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
-[![동영상 제목](동영상 썸네일 이미지 링크](https://www.youtube.com/watch?v=ACzFIAOsfpM&t=907s)(https://www.youtube.com/watch?v=ACzFIAOsfpM&t=907s)
-
+[![깃헙(GitHub) 블로그 10분안에 완성하기](https://i.ytimg.com/vi/--MMmHbSH9k/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;rs=AOn4CLCrM8OWMAuxiMvuGSaJAkQXkxD7qQ)](https://www.youtube.com/watch?v=ACzFIAOsfpM)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
